@@ -3,3 +3,6 @@ test 10/29
 test local-change-1
 test local-change-2
 test local-change-3
+test remote-change1
+test remote-change2
+
