@@ -1,2 +1,5 @@
 test m3
 test 10/29
+test local-change-1
+test local-change-2
+test local-change-3
